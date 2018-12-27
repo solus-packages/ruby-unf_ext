@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-unf_ext</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,49 +19,49 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/unf_ext-0.0.7.5/gem.build_complete</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/unf_ext-0.0.7.5/gem_make.out</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/unf_ext-0.0.7.5/mkmf.log</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/unf_ext-0.0.7.5/unf_ext.so</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/.document</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/.gitignore</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/.travis.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/CHANGELOG.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/Gemfile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/LICENSE.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/.RUBYARCHDIR.time</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/Makefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/extconf.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf.cc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/normalizer.hh</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/table.hh</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/trie/char_stream.hh</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/trie/node.hh</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/trie/searcher.hh</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/util.hh</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf_ext.so</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/lib/unf_ext.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/lib/unf_ext.so</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/lib/unf_ext/version.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/test/helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/test/normalization-test.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/test/test_unf_ext.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/unf_ext-0.0.7.5/unf_ext.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/unf_ext-0.0.7.5.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions/x86_64-linux/2.6.0/unf_ext-0.0.7.5/gem.build_complete</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions/x86_64-linux/2.6.0/unf_ext-0.0.7.5/gem_make.out</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions/x86_64-linux/2.6.0/unf_ext-0.0.7.5/mkmf.log</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions/x86_64-linux/2.6.0/unf_ext-0.0.7.5/unf_ext.so</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/.document</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/.gitignore</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/.travis.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/CHANGELOG.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/LICENSE.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/.sitearchdir.time</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/Makefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/extconf.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf.cc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/normalizer.hh</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/table.hh</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/trie/char_stream.hh</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/trie/node.hh</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/trie/searcher.hh</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf/util.hh</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/ext/unf_ext/unf_ext.so</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/lib/unf_ext.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/lib/unf_ext.so</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/lib/unf_ext/version.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/test/helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/test/normalization-test.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/test/test_unf_ext.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/unf_ext-0.0.7.5/unf_ext.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/unf_ext-0.0.7.5.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-03-23</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>0.0.7.5</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>

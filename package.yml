@@ -1,6 +1,6 @@
 name       : ruby-unf_ext
 version    : 0.0.7.5
-release    : 2
+release    : 3
 source     :
     - https://rubygems.org/downloads/unf_ext-0.0.7.5.gem : 4126717c9ad85bc0d8f62881cabf32e84fe18c47485784d1ba8b0c0fb189e11a
 license    : MIT

@@ -1,14 +1,15 @@
 name       : ruby-unf_ext
-version    : 0.0.7.5
-release    : 3
+version    : 0.0.7.7
+release    : 4
 source     :
-    - https://rubygems.org/downloads/unf_ext-0.0.7.5.gem : 4126717c9ad85bc0d8f62881cabf32e84fe18c47485784d1ba8b0c0fb189e11a
+    - https://rubygems.org/downloads/unf_ext-0.0.7.7.gem : e4e9b1f0c48467fa271d53b180f4ace4c0ff88f01a69ae3da2c30038443e8471
 license    : MIT
 component  : programming.ruby
 summary    : RubyGems - unf_ext
 description: |
     Unicode Normalization Form support library for CRuby.
 builddeps  :
-    - pkgconfig(ruby-2.6)
+    - pkgconfig(ruby-2.7)
 install    : |
     %gem_install
+    rm -rf $installdir/$geminstalldir/{build_info,doc}
